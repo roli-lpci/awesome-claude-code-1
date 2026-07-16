@@ -108,6 +108,7 @@
 - [agent-rules](https://github.com/steipete/agent-rules) - Rules and knowledge to work better with agents such as Claude Code or Cursor.
 - [Claude-Red](https://github.com/SnailSploit/Claude-Red) - Curated library of offensive security skills for Claude Code.
 - [Raptor](https://github.com/gadievron/raptor) - Turns Claude Code into a general-purpose AI offensive/defensive security agent.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source SEO, GEO/AEO, and paid-ads skills for Claude Code; bundles Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP servers for live account data.
 
 ## Hooks & Automation
 
