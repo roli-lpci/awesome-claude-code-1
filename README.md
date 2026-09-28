@@ -181,7 +181,6 @@
 - [claude-code-memory-setup](https://github.com/lucasrosati/claude-code-memory-setup) - Up to 71.5x fewer tokens per session with Obsidian + Graphify integration.
 - [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code.
 
-- [zer0dex](https://github.com/hermes-labs-ai/zer0dex) - Local dual-layer memory pattern for AI agents: a compact human-readable markdown index paired with semantic retrieval from a local vector store, queried before each message.
 
 ## CLAUDE.md Templates & Best Practices
 
